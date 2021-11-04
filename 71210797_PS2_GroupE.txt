@@ -1,0 +1,12 @@
+Terdapat 7 buah gelas kosong yang akan diisi oleh air. Silahkan tentukan gelas mana yang terisi terisi lebih dahulu 
+dan berikan penjelasnanya.
+
+jawab :
+Yang akan terisi oleh air dahulu adalah gelas no 2. 
+Karena pada setiap pipa atau saluran air untuk mengalir terdapat pipa yang buntu, sehingga menghentikan aluran air.
+Dari gambar tersebut maka yang akan terisi air gelas no 4 , 6, 2, dan 7. sedangkan gelas yang lain tidak karena pipa untuk ke gelas tersebut buntu.
+Untuk gelas 4 tidak cepat penuh karena harus mengalirkan ke no 6 dan 2.
+Sedangkan gelas 6 juga harus mengalirkan airnya ke no 7.
+Untuk gelas no 7 sendiri juga tidak cepat penuh karena harus menunggu air dari no 6.
+Dan untuk no 2 merupakan penampung yang terisi terlebih dahulu karena tidak mengalir ke no 3 dan 1. bisa dipastikan akan lebih cepat penuh dibanding yang lain. 
+
