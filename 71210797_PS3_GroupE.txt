@@ -1,0 +1,38 @@
+Buatlah pseudocode untuk melakukan pencarian nilai fibonnaci. 
+bilangan fibonnaci merupakan deret angka yang didapatkan dari penjumlahan 2 angka sebelumnya dengan 2 angka bernilai 1.
+
+jawab : 
+Cara 1 :
+get n
+
+t1 = 1
+t2 = 1
+
+for i = 1 to n
+if i == 1
+   display(1)
+else
+sum = t1 + t2
+t1 =  t2
+t2 = sum
+display(t1)
+end
+
+Cara 2 :
+program fibonaccinumbers;
+read A;
+First Num <- 1;
+second Num <- 1;
+
+while 
+(A !=2)
+
+Do
+total <- second num + first num;
+first num <- second Num;
+second num <- total;
+A<-  A-1;
+
+Endwhile; 
+print total;
+end
